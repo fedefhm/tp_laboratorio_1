@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1523420938 source:c:\users\usuario\desktop\utn programacion\2-primer cuatrimestre\programaciÓn y laboratorio 1\teoría y práctica en casa de las clases\calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1523419948 source:c:\users\usuario\desktop\utn programacion\2-primer cuatrimestre\programaciÓn y laboratorio 1\teoría y práctica en casa de las clases\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1523416860 c:\users\usuario\desktop\utn programacion\2-primer cuatrimestre\programaciÓn y laboratorio 1\teoría y práctica en casa de las clases\calculadora\calculadora.h
+
+1523407292 source:c:\users\usuario\desktop\calculadora original2\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1523511605 source:c:\users\usuario\desktop\calculadora original (con flag agregada)\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1523511364 source:c:\users\usuario\desktop\calculadora original (con flag agregada)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1523511434 c:\users\usuario\desktop\calculadora original (con flag agregada)\calculadora.h
+
+1522640368 source:c:\users\axel sterli\downloads\fede\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1522637854 c:\users\axel sterli\downloads\fede\calculadora.h
+
+1522639971 source:c:\users\axel sterli\downloads\fede\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1523593439 source:c:\users\usuario\desktop\recalcu\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1523593615 source:c:\users\usuario\desktop\recalcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1523590168 c:\users\usuario\desktop\recalcu\calculadora.h
+
+1523662738 source:c:\users\usuario\desktop\tp1 calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1523662738 source:c:\users\usuario\desktop\tp1 calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1523662738 c:\users\usuario\desktop\tp1 calculadora\calculadora.h
+
